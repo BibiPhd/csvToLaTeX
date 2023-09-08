@@ -1,7 +1,5 @@
 # csvToLaTeX
-MATLAB script that converts CSV (Comma-Separated Values) data into LaTeX tables in .txt format. If you are working on a document or publication that requires converting a big table, this tool simplifies the process. Import your CSV file, and run the script.
-
-Features:
+MATLAB and Python scripts that convert CSV (Comma-Separated Values) data into LaTeX tables in .txt format. If you are working on a document or publication that requires converting a big table, this tool simplifies the process. 
 
 1. Convert CSV data to LaTeX tables with ease.
 2. Customizable formatting options for LaTeX tables.
