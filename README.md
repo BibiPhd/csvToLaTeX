@@ -10,6 +10,6 @@ How to Use:
 
 1. Clone or download this repository.
 2. Place your CSV file in the designated directory.
-3. Run the MATLAB script.
+3. Run the MATLAB or Python script.
 4. Retrieve the generated LaTeX code for your tables.
 5. Customize the LaTeX code as needed for your documents.
